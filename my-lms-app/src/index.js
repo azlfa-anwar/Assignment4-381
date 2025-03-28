@@ -1,3 +1,6 @@
+//GROUP
+   // Azlfa Anwar (30176659)
+   // Iraj Akbar  (30146997)
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
