@@ -77,7 +77,7 @@ const courses = [
     instructor: "Dr. Gina Linetti",
     description: "Processes, threads and CPU scheduling.",
     duration: "8 weeks",
-    image: "images/course1.jpg"
+    image: "images/course2.jpg"
   },
   
 ];
