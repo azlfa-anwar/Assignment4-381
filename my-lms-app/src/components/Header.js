@@ -1,11 +1,10 @@
 import { Link } from "react-router-dom";
-import logo from "../images/logo.jpg";
 
 function Header(){
   return (
     <header className="header">
       <div className="logo">
-        <img src={logo} alt="LMS Logo"/>
+        <img src="https://placehold.co/200x80/navy/white?text=LMS+Logo" alt="LMS Logo"/>
       </div>
       <nav className="nav">
         <Link to="/">Home</Link>

@@ -5,7 +5,7 @@ const courses = [
     instructor: "Dr. John Smith",
     description: "Master HTML, CSS, and JavaScript.",
     duration: "8 weeks",
-    image: "images/course1.jpg"
+    image: "https://placehold.co/600x400/orange/white?text=Web+Development"
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const courses = [
     instructor: "Dr. Bridget Jones",
     description: "Learn the different types of DSA",
     duration: "8 weeks",
-    image: "images/course2.jpg"
+    image: "https://placehold.co/600x400/blue/white?text=DSA"
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const courses = [
     instructor: "Dr. Novarun Deb",
     description: "Master HTML, CSS, and JavaScript.",
     duration: "8 weeks",
-    image: "images/course1.jpg"
+    image: "https://placehold.co/600x400/purple/white?text=Full+Stack"
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const courses = [
     instructor: "Dr. Norm Bartley",
     description: "Learning ARM and assembly.",
     duration: "8 weeks",
-    image: "images/course2.jpg"
+    image: "https://placehold.co/600x400/red/white?text=Computer+Architecture"
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const courses = [
     instructor: "Dr. Safaa Tazin",
     description: "Dive deeper into eigenvalues, Fouriers Law and more.",
     duration: "8 weeks",
-    image: "images/course1.jpg"
+    image: "https://placehold.co/600x400/green/white?text=Calculus"
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ const courses = [
     instructor: "Dr. Sean Stotyn",
     description: "Acoustics, Optics and Radiation.",
     duration: "8 weeks",
-    image: "images/course2.jpg"
+    image: "https://placehold.co/600x400/teal/white?text=Physics"
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ const courses = [
     instructor: "Dr. Ahmed Ghasemloonia",
     description: "Beams, Forces and more.",
     duration: "8 weeks",
-    image: "images/course1.jpg"
+    image: "https://placehold.co/600x400/indigo/white?text=Statics"
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ const courses = [
     instructor: "Dr. Ann Barcomb",
     description: "Master OOP with Java.",
     duration: "8 weeks",
-    image: "images/course2.jpg"
+    image: "https://placehold.co/600x400/crimson/white?text=OOP"
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ const courses = [
     instructor: "Dr. Faiza Mazhar",
     description: "Introduction to software-defined networks.",
     duration: "8 weeks",
-    image: "images/course1.jpg"
+    image: "https://placehold.co/600x400/darkblue/white?text=Networks"
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ const courses = [
     instructor: "Dr. Gina Linetti",
     description: "Processes, threads and CPU scheduling.",
     duration: "8 weeks",
-    image: "images/course2.jpg"
+    image: "https://placehold.co/600x400/darkgreen/white?text=OS"
   },
   
 ];
