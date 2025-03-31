@@ -4,16 +4,16 @@ import courses from '../data/courses';
 import testimonials from '../data/testimonials';
 
 function MainSection() {
-  // Get 3 random courses to display
+  // get random courses to display
   const [featuredCourses, setFeaturedCourses] = useState([]);
   const [displayedTestimonials, setDisplayedTestimonials] = useState([]);
   
   useEffect(() => {
-    // Select 3 random courses for featured display
+    // select random courses
     const randomCourses = [...courses].sort(() => 0.5 - Math.random()).slice(0, 3);
     setFeaturedCourses(randomCourses);
     
-    // Select 2 random testimonials to display
+    // select random testimonials
     const randomTestimonials = [...testimonials].sort(() => 0.5 - Math.random()).slice(0, 2);
     setDisplayedTestimonials(randomTestimonials);
   }, []);
