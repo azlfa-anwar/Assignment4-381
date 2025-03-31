@@ -8,12 +8,12 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 /*
-* ensf 381 - assignment 4
-* group members:
-* azlfa anwar - 30176659
-* iraj akbar - 30146997
+* ENSF 381 - Assignment 4
+* Group members:
+* Azlfa Anwar - 30176659
+* Iraj Akbar - 30146997
 * 
-* date: march 31, 2024
+* Date: March 31, 2025
 */
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
